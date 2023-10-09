@@ -81,6 +81,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 //copy right by,@hometv menampilkan playlist >>> LOKAL 2 HD
 //========================================================================
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TRANS 7 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 http://103.150.197.226:25461/live/hometv@226/Wdk8VzyYTG/214.ts
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="🇮🇩 LOKAL 2 ID HD",TRANS TV HD
 http://103.150.197.226:25461/live/hometv@226/Wdk8VzyYTG/215.ts
