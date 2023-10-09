@@ -1,7 +1,8 @@
 #EXTM3U
 //========================================================================
-//copy right by,@hometv menampilkan playlist >>> ACTION #EXTVLCOPT:http-referrer=
+//copy right by,@hometv menampilkan playlist >>> ACTION 
 //========================================================================
+
 #EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/08/MV5BYzRlMTJlYjMtZmNkOS00MmU5LTk0YWMtYjVkMjc5MmFhMzA2XkEyXkFqcGdeQXVyMTA1MDA4MTY0._V1_SX200-150x225.jpg" group-title="Action",Apaches (2023)
 http://103.150.117.215:25461/movie/qFM8UjwVnq/EnqmATgPbx/11472.m3u8|referer=https://emturbovid.com/hometv/qFM8UjwVnq/EnqmATgPbx/
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozkZ8TeIRwzNH2zF5LFS39M3v5U.jpg" group-title="Action",The Engineer (2023)
